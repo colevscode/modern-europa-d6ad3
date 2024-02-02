@@ -88,7 +88,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: Required
-          label: I have read and accept the legal terms.
+          label: Please check this box
           isRequired: false
           width: full
       submitButton:
