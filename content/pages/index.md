@@ -86,6 +86,11 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
+        - type: CheckboxFormControl
+          name: Required
+          label: I have read and accept the legal terms.
+          isRequired: false
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
